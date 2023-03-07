@@ -1,0 +1,16 @@
+.ColorForm {
+    text-align: center;
+    background-color: pink;
+    margin-top: 20vh;
+    padding: 10px;
+}
+
+form label, button {
+    display: block;
+    margin-top: 20px;
+}
+
+form button {
+    margin-right: auto;
+    margin-left: auto;
+}

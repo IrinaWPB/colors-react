@@ -1,0 +1,10 @@
+.ColorList-head {
+    background-color: rgb(158, 158, 158);
+    height: 100px;
+    padding: 20px;;
+    text-align: center;
+}
+
+.ColorList-list {
+    text-align: center;
+}

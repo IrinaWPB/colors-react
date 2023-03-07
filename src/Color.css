@@ -1,0 +1,18 @@
+.Color {
+    height: 100vh;
+    text-align: center;
+}
+
+.Color a {
+    background-color:bisque;
+    font-size: 40px;
+    padding: 10px;
+    text-decoration: none;
+    border-radius: 10px;
+}
+
+.Color h1, h2 {
+    background-color:antiquewhite;
+    opacity: 0.7;
+}
+
